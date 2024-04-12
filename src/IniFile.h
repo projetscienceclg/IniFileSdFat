@@ -1,6 +1,8 @@
 #ifndef _INIFILE_H
 #define _INIFILE_H
 
+#define PREFER_SDFAT_LIBRARY
+
 #include <stdint.h>
 
 #if defined(PREFER_SDFAT_LIBRARY)
