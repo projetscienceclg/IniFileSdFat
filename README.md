@@ -1,5 +1,7 @@
 # IniFile
 
+## forked to add PREFER_SDFAT_LIBRARY macro define in IniFile.h
+
 IniFile is an Arduino library for reading ini files. The format is
 similar to that seen in Microsoft `.ini` files but the implementation
 is completely independent. IniFile is designed to use minimal memory
